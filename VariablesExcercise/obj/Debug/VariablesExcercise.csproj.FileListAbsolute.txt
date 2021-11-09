@@ -1,0 +1,7 @@
+E:\repos\VariablesExcercise\VariablesExcercise\bin\Debug\VariablesExcercise.exe.config
+E:\repos\VariablesExcercise\VariablesExcercise\bin\Debug\VariablesExcercise.exe
+E:\repos\VariablesExcercise\VariablesExcercise\bin\Debug\VariablesExcercise.pdb
+E:\repos\VariablesExcercise\VariablesExcercise\obj\Debug\VariablesExcercise.csproj.AssemblyReference.cache
+E:\repos\VariablesExcercise\VariablesExcercise\obj\Debug\VariablesExcercise.csproj.CoreCompileInputs.cache
+E:\repos\VariablesExcercise\VariablesExcercise\obj\Debug\VariablesExcercise.exe
+E:\repos\VariablesExcercise\VariablesExcercise\obj\Debug\VariablesExcercise.pdb
